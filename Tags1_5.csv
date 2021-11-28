@@ -1,0 +1,402 @@
+,Name,Rarity,Tags,Controversial,Description,COOL,WEIRD,CLEVER,FUNNY,AWESOME,CREEPY,CUTE,NOOB,GROSS,NAUGHTY,WILD,ASPIRING,NERDY
+0,Symmetric,0,COOL,False,For having a symmetric rocket,True,False,False,False,False,False,False,False,False,False,False,False,False
+1,Perfectly Symmetric,1,COOL,False,For having a perfectly symmetric rocket,True,False,False,False,False,False,False,False,False,False,False,False,False
+2,Unsymmetric,1,WEIRD,False,For having a unsymmetric rocket,False,True,False,False,False,False,False,False,False,False,False,False,False
+3,Extremely Unsymmetric,2,WEIRD,False,For having a completely unsymmetric rocket,False,True,False,False,False,False,False,False,False,False,False,False,False
+4,Thin,1,CLEVER,False,For having the rocket width at least 5 times smaller than its height,False,False,True,False,False,False,False,False,False,False,False,False,False
+5,Flat,2,WEIRD,False,For having the rocket width at least 5 times bigger than its height,False,True,False,False,False,False,False,False,False,False,False,False,False
+6,Square,1,FUNNY,False,For having the rocket width the same as the rocket height,False,False,False,True,False,False,False,False,False,False,False,False,False
+7,Big,1,AWESOME,False,For making a big rocket,False,False,False,False,True,False,False,False,False,False,False,False,False
+8,Giant,2,AWESOME,False,For making a giant rocket,False,False,False,False,True,False,False,False,False,False,False,False,False
+9,Skeleton,3,CREEPY,False,For having a rocket with only 10% of its mass consisting of structure parts,False,False,False,False,False,True,False,False,False,False,False,False,False
+10,Lightweight,1,CUTE,False,For having a rocket weighing less than 1 kilogram,False,False,False,False,False,False,True,False,False,False,False,False,False
+11,Purist,1,COOL,False,For using only one structure set,True,False,False,False,False,False,False,False,False,False,False,False,False
+12,Collage,2,"AWESOME, COOL",False,For using 5 different structure sets,True,False,False,False,True,False,False,False,False,False,False,False,False
+13,Minimal,1,WEIRD,False,For using only 1 structure part,False,True,False,False,False,False,False,False,False,False,False,False,False
+14,Complicated,2,CLEVER,False,For using at least 25 structure parts,False,False,True,False,False,False,False,False,False,False,False,False,False
+15,Monolith,4,WEIRD,False,For having a rocket of at least 2 meters tall while using only 1 structure part,False,True,False,False,False,False,False,False,False,False,False,False,False
+16,Plank,0,NOOB,False,For using a plank,False,False,False,False,False,False,False,True,False,False,False,False,False
+17,Pallet,1,NOOB,False,For using a pallet,False,False,False,False,False,False,False,True,False,False,False,False,False
+18,Toilet Roll,0,"NOOB, GROSS",False,For using a toilet roll,False,False,False,False,False,False,False,True,True,False,False,False,False
+19,Pandemic,3,"FUNNY, GROSS",False,For using 5 toilet rolls,False,False,False,True,False,False,False,False,True,False,False,False,False
+20,Tin Can,0,GROSS,False,For using a tin can,False,False,False,False,False,False,False,False,True,False,False,False,False
+21,Football,1,"GROSS, COOL",False,For using a football,True,False,False,False,False,False,False,False,True,False,False,False,False
+22,Soccer,2,"NOOB, FUNNY",False,For using 2 footballs,False,False,False,True,False,False,False,True,False,False,False,False,False
+23,Funnel,0,GROSS,False,For using a funnel,False,False,False,False,False,False,False,False,True,False,False,False,False
+24,Keyboard,1,"NERDY, GROSS",False,For using a keyboard,False,False,False,False,False,False,False,False,True,False,False,False,True
+25,Sit,0,GROSS,False,For using a stool,False,False,False,False,False,False,False,False,True,False,False,False,False
+26,BBQ,0,GROSS,False,For using tongs,False,False,False,False,False,False,False,False,True,False,False,False,False
+27,Clean,0,"GROSS, FUNNY",False,For using a vacuum,False,False,False,True,False,False,False,False,True,False,False,False,False
+28,Rim Job,2,"NAUGHTY, FUNNY",True,For using a steel rim,False,False,False,True,False,False,False,False,False,True,False,False,False
+29,Muffled,1,WEIRD,False,For using a muffler,False,True,False,False,False,False,False,False,False,False,False,False,False
+30,Brake,0,NOOB,False,For using a brake disk,False,False,False,False,False,False,False,True,False,False,False,False,False
+31,High Level,1,"FUNNY, ASPIRING",False,For using a ladder,False,False,False,True,False,False,False,False,False,False,False,True,False
+32,Saw,1,"WEIRD, WILD",False,For using a table saw,False,True,False,False,False,False,False,False,False,False,True,False,False
+33,Slide,1,COOL,False,For using a slide end,True,False,False,False,False,False,False,False,False,False,False,False,False
+34,Wiper,0,WEIRD,False,For using a windshield wiper,False,True,False,False,False,False,False,False,False,False,False,False,False
+35,Umbrella,2,"COOL, CUTE",False,For using an umbrella,True,False,False,False,False,False,True,False,False,False,False,False,False
+36,Poppins,3,"NERDY, CUTE",False,For using a umbrella at the top rocket,False,False,False,False,False,False,True,False,False,False,False,False,True
+37,StarTube,2,COOL,False,For using a StarTube cap,True,False,False,False,False,False,False,False,False,False,False,False,False
+38,Breakfast,1,GROSS,False,For using a toaster,False,False,False,False,False,False,False,False,True,False,False,False,False
+39,Loud,1,AWESOME,False,For using a megaphone,False,False,False,False,True,False,False,False,False,False,False,False,False
+40,Internet,2,"NERDY, CLEVER",False,For using a router,False,False,True,False,False,False,False,False,False,False,False,False,True
+41,Crazy,2,"WEIRD, FUNNY",False,For using a lampshade,False,True,False,True,False,False,False,False,False,False,False,False,False
+42,Clamp,1,WEIRD,False,For using a clamp,False,True,False,False,False,False,False,False,False,False,False,False,False
+43,Fidget Spinner,3,COOL,False,For using a fidget spinner,True,False,False,False,False,False,False,False,False,False,False,False,False
+44,Graffiti,1,"COOL, WILD",False,For using a graffiti can,True,False,False,False,False,False,False,False,False,False,True,False,False
+45,Music,2,COOL,False,For using a guitar,True,False,False,False,False,False,False,False,False,False,False,False,False
+46,Stop,3,WEIRD,False,For using a stop sign,False,True,False,False,False,False,False,False,False,False,False,False,False
+47,Lit,1,COOL,False,For using an industrial light,True,False,False,False,False,False,False,False,False,False,False,False,False
+48,Cock,3,"NAUGHTY, WILD",True,For using a weathercock,False,False,False,False,False,False,False,False,False,True,True,False,False
+49,Top,1,CUTE,False,For using a spinning top,False,False,False,False,False,False,True,False,False,False,False,False,False
+50,Chopsticks,1,FUNNY,False,For using 2 toy sticks,False,False,False,True,False,False,False,False,False,False,False,False,False
+51,Mikado,2,CUTE,False,For using 5 toy sticks,False,False,False,False,False,False,True,False,False,False,False,False,False
+52,Rings,0,CUTE,False,For using a ring pyramid,False,False,False,False,False,False,True,False,False,False,False,False,False
+53,Train,1,CUTE,False,For using a wooden train,False,False,False,False,False,False,True,False,False,False,False,False,False
+54,Elephant,1,"WILD, CUTE",False,For using a stuffed elephant,False,False,False,False,False,False,True,False,False,False,True,False,False
+55,Jumbo,2,"WILD, CUTE",False,For using 2 stuffed elephants,False,False,False,False,False,False,True,False,False,False,True,False,False
+56,Horse,2,"WILD, CUTE",False,For using a rocking horse,False,False,False,False,False,False,True,False,False,False,True,False,False
+57,Stable,3,"WILD, CUTE",False,For using 4 rocking horses,False,False,False,False,False,False,True,False,False,False,True,False,False
+58,Teddy Bear,0,"CUTE, WILD",False,For using a teddy bear,False,False,False,False,False,False,True,False,False,False,True,False,False
+59,Cuddly,2,CUTE,False,For using 3 teddy bears,False,False,False,False,False,False,True,False,False,False,False,False,False
+60,Teddy Nose,1,"FUNNY, CUTE",False,For using a teddy bear at the top of the rocket,False,False,False,True,False,False,True,False,False,False,False,False,False
+61,Baby,0,"CREEPY, CUTE",False,For using a baby,False,False,False,False,False,True,True,False,False,False,False,False,False
+62,Conjoined Twin,2,CREEPY,False,For using 2 babies that are attached to each other,False,False,False,False,False,True,False,False,False,False,False,False,False
+63,Baby Centipede,3,CREEPY,False,For using 3 babies that are all attached to each other,False,False,False,False,False,True,False,False,False,False,False,False,False
+64,Baby Centipede 2,4,CREEPY,False,For using 12 babies that are all attached to each other,False,False,False,False,False,True,False,False,False,False,False,False,False
+65,Bot,1,"CUTE, COOL",False,For using a robot,True,False,False,False,False,False,True,False,False,False,False,False,False
+66,Astronaut,3,ASPIRING,False,For using a space shuttle,False,False,False,False,False,False,False,False,False,False,False,True,False
+67,Moon,3,NERDY,False,For using a moon rocket,False,False,False,False,False,False,False,False,False,False,False,False,True
+68,Flamingo,2,WILD,False,For using a flamingo,False,False,False,False,False,False,False,False,False,False,True,False,False
+69,Frame,0,WEIRD,False,For using a bike frame,False,True,False,False,False,False,False,False,False,False,False,False,False
+70,Saddle,1,WEIRD,False,For using a bike saddle,False,True,False,False,False,False,False,False,False,False,False,False,False
+71,Bottle,0,COOL,False,For using a fuel bottle,True,False,False,False,False,False,False,False,False,False,False,False,False
+72,Motorcycle,1,"COOL, AWESOME",False,For using a motorcycle tank,True,False,False,False,True,False,False,False,False,False,False,False,False
+73,Truck,2,WEIRD,False,For using a truck fuel tank,False,True,False,False,False,False,False,False,False,False,False,False,False
+74,Tzar,3,"CREEPY, AWESOME",False,For using a Tzar bomba,False,False,False,False,True,True,False,False,False,False,False,False,False
+75,Junk,0,WEIRD,False,For using a junk engine,False,True,False,False,False,False,False,False,False,False,False,False,False
+76,Techno,2,"COOL, WEIRD",False,For using a techno jet,True,True,False,False,False,False,False,False,False,False,False,False,False
+77,Ultimate,3,AWESOME,False,For using a ultimate engine,False,False,False,False,True,False,False,False,False,False,False,False,False
+78,Gate,0,CLEVER,False,For using a gate,False,False,True,False,False,False,False,False,False,False,False,False,False
+79,Leaf Blower,2,WEIRD,False,For using a leaf blower pump,False,True,False,False,False,False,False,False,False,False,False,False,False
+80,Cherry,0,"CUTE, NOOB",False,For using a cherry bomb,False,False,False,False,False,False,True,True,False,False,False,False,False
+81,Illegal,1,NAUGHTY,False,For using an illegal firework,False,False,False,False,False,False,False,False,False,True,False,False,False
+82,Firecracker,0,"NAUGHTY, AWESOME",False,For using a firecracker,False,False,False,False,True,False,False,False,False,True,False,False,False
+83,Chinese Roll,2,"NAUGHTY, AWESOME",False,For using 6 firecrackers,False,False,False,False,True,False,False,False,False,True,False,False,False
+84,Molotov,1,"NAUGHTY, CREEPY",False,For using a Molotov cocktail,False,False,False,False,False,True,False,False,False,True,False,False,False
+85,Dynamite,1,"NAUGHTY, AWESOME",False,For using a dynamite,False,False,False,False,True,False,False,False,False,True,False,False,False
+86,Swivel,0,CLEVER,False,For using a swivel,False,False,True,False,False,False,False,False,False,False,False,False,False
+87,Decoupler,0,CLEVER,False,For using a decoupler,False,False,True,False,False,False,False,False,False,False,False,False,False
+88,Satellite,2,"CLEVER, ASPIRING",False,For using a satellite,False,False,True,False,False,False,False,False,False,False,False,True,False
+89,Passion,2,NAUGHTY,False,For using a passion firework,False,False,False,False,False,False,False,False,False,True,False,False,False
+90,Death,3,CREEPY,False,For using 4 purple smokers,False,False,False,False,False,True,False,False,False,False,False,False,False
+91,Rocket Kit,0,NOOB,False,For using the rocket kit set,False,False,False,False,False,False,False,True,False,False,False,False,False
+92,Beginner,0,"NOOB, CUTE",False,For only the rocket kit structure set,False,False,False,False,False,False,True,True,False,False,False,False,False
+93,Completed Kit,1,NOOB,False,For using a completed rocket kit set,False,False,False,False,False,False,False,True,False,False,False,False,False
+94,Double Kit,2,"NOOB, NERDY",False,For using a completed rocket kit set twice,False,False,False,False,False,False,False,True,False,False,False,False,True
+95,Collector,4,"NOOB, AWESOME",False,For using 14 different rocket kit parts,False,False,False,False,True,False,False,True,False,False,False,False,False
+96,Trash,0,GROSS,False,For using the trash set,False,False,False,False,False,False,False,False,True,False,False,False,False
+97,Recycler,2,"GROSS, WILD",False,For using only the trash structure set,False,False,False,False,False,False,False,False,True,False,True,False,False
+98,Trash Crafter,1,"GROSS, COOL",False,For using 3 different trash parts,True,False,False,False,False,False,False,False,True,False,False,False,False
+99,Trash King,3,"GROSS, AWESOME",False,For using 8 different trash parts,False,False,False,False,True,False,False,False,True,False,False,False,False
+100,Toys,0,CUTE,False,For using the toy set,False,False,False,False,False,False,True,False,False,False,False,False,False
+101,Playtime,2,CUTE,False,For using only the toy structure set,False,False,False,False,False,False,True,False,False,False,False,False,False
+102,Toy Freak,3,"CUTE, AWESOME",False,For using 13 different toy parts,False,False,False,False,True,False,True,False,False,False,False,False,False
+103,PVC,0,CLEVER,False,For using the PVC set,False,False,True,False,False,False,False,False,False,False,False,False,False
+104,DIY,2,CLEVER,False,For using only the PVC structure set,False,False,True,False,False,False,False,False,False,False,False,False,False
+105,Sewer System,2,"WEIRD, CLEVER",False,For using 10 PVC parts and no other structure sets,False,True,True,False,False,False,False,False,False,False,False,False,False
+106,Plumber,3,"CLEVER, AWESOME",False,For using 19 different PVC parts,False,False,True,False,True,False,False,False,False,False,False,False,False
+107,Bike,0,WEIRD,False,For using the bike set,False,True,False,False,False,False,False,False,False,False,False,False,False
+108,Bicycle,2,"WEIRD, COOL",False,For using only the bike structure set,True,True,False,False,False,False,False,False,False,False,False,False,False
+109,Cyclist,1,WEIRD,False,For using 4 different bike parts,False,True,False,False,False,False,False,False,False,False,False,False,False
+110,Full Bike,2,WEIRD,False,For making a complete bike,False,True,False,False,False,False,False,False,False,False,False,False,False
+111,Scrap,0,WEIRD,False,For using a scrap part,False,True,False,False,False,False,False,False,False,False,False,False,False
+112,Metal,2,"WEIRD, COOL",False,For using only the scrap structure set,True,True,False,False,False,False,False,False,False,False,False,False,False
+113,Junkyard,3,"WEIRD, GROSS",False,For using 25 different scrap parts,False,True,False,False,False,False,False,False,True,False,False,False,False
+114,Wood,0,WILD,False,For using the wood set,False,False,False,False,False,False,False,False,False,False,True,False,False
+115,Tree,2,WILD,False,For using only the wood structure set,False,False,False,False,False,False,False,False,False,False,True,False,False
+116,Lumberjack,3,"WILD, AWESOME",False,For using 24 different wood parts,False,False,False,False,True,False,False,False,False,False,True,False,False
+117,Pool,0,COOL,False,For using a pool part,True,False,False,False,False,False,False,False,False,False,False,False,False
+118,Fiberglass,2,COOL,False,For using only the pool structure set,True,False,False,False,False,False,False,False,False,False,False,False,False
+119,Lifeguard,3,"COOL, AWESOME",False,For using 20 different pool parts,True,False,False,False,True,False,False,False,False,False,False,False,False
+120,Retro,0,NERDY,False,For using a retro part,False,False,False,False,False,False,False,False,False,False,False,False,True
+121,Thunder Bird,2,"NERDY, WILD",False,For using only the retro structure set,False,False,False,False,False,False,False,False,False,False,True,False,True
+122,Antique,4,NERDY,False,For using 13 different retro parts,False,False,False,False,False,False,False,False,False,False,False,False,True
+123,Next Space Rebel,0,ASPIRING,False,For using a NSR part,False,False,False,False,False,False,False,False,False,False,False,True,False
+124,Modern,1,ASPIRING,False,For using only the NSR structure set,False,False,False,False,False,False,False,False,False,False,False,True,False
+125,Suborbital,3,ASPIRING,False,For using 23 different NSR parts,False,False,False,False,False,False,False,False,False,False,False,True,False
+126,Mannequin,0,WEIRD,False,For using a mannequin part,False,True,False,False,False,False,False,False,False,False,False,False,False
+127,Golem,3,"WEIRD, NERDY",False,For using only the mannequin structure set,False,True,False,False,False,False,False,False,False,False,False,False,True
+128,Display,2,"WEIRD, CUTE",False,For using 7 different mannequin parts,False,True,False,False,False,False,True,False,False,False,False,False,False
+129,Dandy Deer,0,"WEIRD, WILD",False,For using a Dandy Deer part,False,True,False,False,False,False,False,False,False,False,True,False,False
+130,Reindeer,3,WILD,False,For using only the Dandy Deer structure set,False,False,False,False,False,False,False,False,False,False,True,False,False
+131,Furry,2,"NERDY, WILD",False,For using 7 different Dandy Deer parts,False,False,False,False,False,False,False,False,False,False,True,False,True
+132,Diversity,3,AWESOME,False,For using 10 different other parts,False,False,False,False,True,False,False,False,False,False,False,False,False
+133,Boost,0,NOOB,False,For using a booster,False,False,False,False,False,False,False,True,False,False,False,False,False
+134,Extra Boost,0,NOOB,False,For using 2 boosters,False,False,False,False,False,False,False,True,False,False,False,False,False
+135,Power Boost,1,AWESOME,False,For using 3 boosters,False,False,False,False,True,False,False,False,False,False,False,False,False
+136,Mega Boost,1,AWESOME,False,For using 4 boosters,False,False,False,False,True,False,False,False,False,False,False,False,False
+137,Giga Boost,2,AWESOME,False,For using 5 boosters,False,False,False,False,True,False,False,False,False,False,False,False,False
+138,Booster Pack,2,NERDY,False,For using 4 different boosters,False,False,False,False,False,False,False,False,False,False,False,False,True
+139,Fuel,0,CLEVER,False,For using a fuel tank,False,False,True,False,False,False,False,False,False,False,False,False,False
+140,Juice,1,"CUTE, GROSS",False,For using 3 fuel tanks,False,False,False,False,False,False,True,False,True,False,False,False,False
+141,Bloated,2,"WEIRD, GROSS",False,For using 5 fuel tanks,False,True,False,False,False,False,False,False,True,False,False,False,False
+142,Gas Station,4,CLEVER,False,For using 15 different fuel tanks,False,False,True,False,False,False,False,False,False,False,False,False,False
+143,Oxygen,0,CLEVER,False,For using an oxygen tank,False,False,True,False,False,False,False,False,False,False,False,False,False
+144,Scientist,2,CLEVER,False,For using 3 different oxygen tanks,False,False,True,False,False,False,False,False,False,False,False,False,False
+145,Engine,0,CLEVER,False,For using an engine,False,False,True,False,False,False,False,False,False,False,False,False,False
+146,Motor,2,"CLEVER, COOL",False,For using 2 engines,True,False,True,False,False,False,False,False,False,False,False,False,False
+147,Powerhouse,3,"CLEVER, AWESOME",False,For using 4 engines,False,False,True,False,True,False,False,False,False,False,False,False,False
+148,Engineer,4,CLEVER,False,For using 10 different engines,False,False,True,False,False,False,False,False,False,False,False,False,False
+149,Connection,0,CLEVER,False,For using a connection part,False,False,True,False,False,False,False,False,False,False,False,False,False
+150,Network,2,CLEVER,False,For using 5 different connection parts,False,False,True,False,False,False,False,False,False,False,False,False,False
+151,Pump,0,CLEVER,False,For using a pump,False,False,True,False,False,False,False,False,False,False,False,False,False
+152,Pump Tower,3,"NAUGHTY, GROSS",True,For using 4 pumps on top of each other,False,False,False,False,False,False,False,False,True,True,False,False,False
+153,Force,2,AWESOME,False,For using 5 different pumps,False,False,False,False,True,False,False,False,False,False,False,False,False
+154,Fireworks,0,AWESOME,False,For using the fireworks set,False,False,False,False,True,False,False,False,False,False,False,False,False
+155,Pyromaniac,1,"AWESOME, CREEPY",False,For using 3 firework parts,False,False,False,False,True,True,False,False,False,False,False,False,False
+156,Flower Power,2,"AWESOME, WILD",False,For using 3 different firework flowers,False,False,False,False,True,False,False,False,False,False,True,False,False
+157,New Years Eve,3,AWESOME,False,For using 9 different firework parts,False,False,False,False,True,False,False,False,False,False,False,False,False
+158,Kinetic,0,CLEVER,False,For using a kinetic part,False,False,True,False,False,False,False,False,False,False,False,False,False
+159,Double Barrel,1,CLEVER,False,For using 2 upward straight parts at the same height,False,False,True,False,False,False,False,False,False,False,False,False,False
+160,Trident,2,COOL,False,For using 3 upward straight parts at roughly the same height that are not attached to each other,True,False,False,False,False,False,False,False,False,False,False,False,False
+161,Cross,2,CLEVER,False,For combining 2 rectangle shaped part to create a cross shape,False,False,True,False,False,False,False,False,False,False,False,False,False
+162,T-Bone,2,CLEVER,False,For combining 2 rectangle shaped part to create a T shape,False,False,True,False,False,False,False,False,False,False,False,False,False
+163,V-Shape,2,CLEVER,False,For combining 2 rectangle shaped part to create a V shape,False,False,True,False,False,False,False,False,False,False,False,False,False
+164,Triforce,3,NERDY,False,For using 3 triangles stacked in a pyramid,False,False,False,False,False,False,False,False,False,False,False,False,True
+165,Three-Leaf Clover,2,"WILD, CLEVER",False,For using 3 round parts in a three-leaf clover shape,False,False,True,False,False,False,False,False,False,False,True,False,False
+166,Four-Leaf Clover,3,"WILD, CLEVER",False,For using 4 round parts in a three-leaf clover shape,False,False,True,False,False,False,False,False,False,False,True,False,False
+167,Nose,0,WEIRD,False,For using a nose part,False,True,False,False,False,False,False,False,False,False,False,False,False
+168,Nose Job,1,"WEIRD, CREEPY",False,For using 2 different nose parts,False,True,False,False,False,True,False,False,False,False,False,False,False
+169,Broken Nose,1,"FUNNY, WEIRD",False,For using a nose part that is not facing upwards,False,True,False,True,False,False,False,False,False,False,False,False,False
+170,Tail,0,WILD,False,For using a tail part,False,False,False,False,False,False,False,False,False,False,True,False,False
+171,Twin Tail,1,WILD,False,For using 2 tail parts,False,False,False,False,False,False,False,False,False,False,True,False,False
+172,Inverted Tail,2,"WEIRD, WILD",False,For using a tail part rotated downward,False,True,False,False,False,False,False,False,False,False,True,False,False
+173,Tail Diversity,1,"WILD, AWESOME",False,For using 2 different tail parts,False,False,False,False,True,False,False,False,False,False,True,False,False
+174,Nine Tails,3,"NERDY, WILD",False,For using 9 tail parts,False,False,False,False,False,False,False,False,False,False,True,False,True
+175,Arm,0,WEIRD,False,For using a arm part,False,True,False,False,False,False,False,False,False,False,False,False,False
+176,Leg,0,WEIRD,False,For using a leg part,False,True,False,False,False,False,False,False,False,False,False,False,False
+177,One-legged,1,WEIRD,False,For using only 1 leg part,False,True,False,False,False,False,False,False,False,False,False,False,False
+178,Insect,2,"WILD, CREEPY",False,For using 6 limbs,False,False,False,False,False,True,False,False,False,False,True,False,False
+179,Spider,3,"WILD, CREEPY",False,For using 8 limbs,False,False,False,False,False,True,False,False,False,False,True,False,False
+180,Millipede,4,"CREEPY, WILD",False,For using 10 limbs,False,False,False,False,False,True,False,False,False,False,True,False,False
+181,Head,0,"WEIRD, CREEPY",False,For using a head part,False,True,False,False,False,True,False,False,False,False,False,False,False
+182,Cerberus,2,"NERDY, WEIRD",False,For using 3 head parts,False,True,False,False,False,False,False,False,False,False,False,False,True
+183,Hydra,3,"NERDY, WEIRD",False,For using 9 head parts,False,True,False,False,False,False,False,False,False,False,False,False,True
+184,Torso,0,WEIRD,False,For using a torso part,False,True,False,False,False,False,False,False,False,False,False,False,False
+185,Buff,2,"WEIRD, COOL",False,For using 3 torso parts,True,True,False,False,False,False,False,False,False,False,False,False,False
+186,Wheel,0,WEIRD,False,For using a wheel part,False,True,False,False,False,False,False,False,False,False,False,False,False
+187,Vehicle,2,CLEVER,False,For using a wheel at the bottom of the rocket,False,False,True,False,False,False,False,False,False,False,False,False,False
+188,Smoker,0,GROSS,False,For using a smoker part,False,False,False,False,False,False,False,False,True,False,False,False,False
+189,Spring,0,WILD,False,For using a spring part,False,False,False,False,False,False,False,False,False,False,True,False,False
+190,Barrel,0,WEIRD,False,For using a barrel part,False,True,False,False,False,False,False,False,False,False,False,False,False
+191,Wheelbarrow,0,WEIRD,False,For using a wheelbarrow part,False,True,False,False,False,False,False,False,False,False,False,False,False
+192,Jerrycan,0,COOL,False,For using a jerrycan part,True,False,False,False,False,False,False,False,False,False,False,False,False
+193,Algae,0,WILD,False,For using a algae part,False,False,False,False,False,False,False,False,False,False,True,False,False
+194,Balls,2,"FUNNY, NAUGHTY",False,For using 2 balls that are attached to each other,False,False,False,True,False,False,False,False,False,True,False,False,False
+195,Juggler,2,FUNNY,False,For using 3 balls,False,False,False,True,False,False,False,False,False,False,False,False,False
+196,Pro Juggler,3,ASPIRING,False,For using 5 balls,False,False,False,False,False,False,False,False,False,False,False,True,False
+197,Rocket Kit XL,0,"NOOB, ASPIRING",False,For using a rocket kit XL part,False,False,False,False,False,False,False,True,False,False,False,True,False
+198,Red,1,AWESOME,False,For using 2 red parts,False,False,False,False,True,False,False,False,False,False,False,False,False
+199,Orange,1,AWESOME,False,For using 2 orange parts,False,False,False,False,True,False,False,False,False,False,False,False,False
+200,Yellow,1,AWESOME,False,For using 2 yellow parts,False,False,False,False,True,False,False,False,False,False,False,False,False
+201,Green,1,AWESOME,False,For using 2 green parts,False,False,False,False,True,False,False,False,False,False,False,False,False
+202,Blue,1,AWESOME,False,For using 2 blue parts,False,False,False,False,True,False,False,False,False,False,False,False,False
+203,Purple,1,AWESOME,False,For using 2 purple parts,False,False,False,False,True,False,False,False,False,False,False,False,False
+204,Pink,1,AWESOME,False,For using 2 pink parts,False,False,False,False,True,False,False,False,False,False,False,False,False
+205,Car,2,"CLEVER, COOL",False,For using 3 car parts,True,False,True,False,False,False,False,False,False,False,False,False,False
+206,Toy Blocks,2,CUTE,False,For using 4 different toy block parts,False,False,False,False,False,False,True,False,False,False,False,False,False
+207,Architect,3,"CUTE, CLEVER",False,For using every toy block,False,False,True,False,False,False,True,False,False,False,False,False,False
+208,Industrial,0,CLEVER,False,For using an industrial part,False,False,True,False,False,False,False,False,False,False,False,False,False
+209,Angel,2,CUTE,False,For using a halo shaped part on top of the rocket,False,False,False,False,False,False,True,False,False,False,False,False,False
+210,Winged,1,WILD,False,For using 2 wing shaped parts,False,False,False,False,False,False,False,False,False,False,True,False,False
+211,Bird Wings,3,WILD,False,For combining 2 wing shaped parts with a figure,False,False,False,False,False,False,False,False,False,False,True,False,False
+212,Zoo,2,WILD,False,For using 3 different animal parts,False,False,False,False,False,False,False,False,False,False,True,False,False
+213,Crowd Control,3,WEIRD,False,For having 5 different figure parts in the rocket,False,True,False,False,False,False,False,False,False,False,False,False,False
+214,Donut,3,CUTE,False,For creating a donut out of 4 of the same bend parts,False,False,False,False,False,False,True,False,False,False,False,False,False
+215,Shark,1,WILD,False,For using 2 side fins,False,False,False,False,False,False,False,False,False,False,True,False,False
+216,Tropical Paradise,2,COOL,False,For using 5 different pool slide parts,True,False,False,False,False,False,False,False,False,False,False,False,False
+217,Addicted,2,GROSS,False,For using 10 smokers,False,False,False,False,False,False,False,False,True,False,False,False,False
+218,Blocky,1,NERDY,False,For using 3 cube shaped parts,False,False,False,False,False,False,False,False,False,False,False,False,True
+219,Minecraft,3,NERDY,False,For using only cube shaped structure parts,False,False,False,False,False,False,False,False,False,False,False,False,True
+220,Fashionable,1,AWESOME,False,For using only wrapped wood structure parts,False,False,False,False,True,False,False,False,False,False,False,False,False
+221,Tube,0,"CLEVER, WEIRD",False,For using a tube part,False,True,True,False,False,False,False,False,False,False,False,False,False
+222,Ass,2,"NAUGHTY, GROSS",True,For using a toilet roll and a windshield wiper,False,False,False,False,False,False,False,False,True,True,False,False,False
+223,Fart,2,GROSS,True,For using a toilet roll and a green smoker,False,False,False,False,False,False,False,False,True,False,False,False,False
+224,Quarantine,2,"FUNNY, CREEPY",False,For combining a figure part with 4 toilet rolls,False,False,False,True,False,True,False,False,False,False,False,False,False
+225,Spin,2,CUTE,False,For using a fidget spinner and a spinning top,False,False,False,False,False,False,True,False,False,False,False,False,False
+226,Pipe Bomb,1,AWESOME,False,For using PVC and an explosive,False,False,False,False,True,False,False,False,False,False,False,False,False
+227,Improviser,1,"NOOB, WEIRD",False,For using the rocket kit set and a toilet roll,False,True,False,False,False,False,False,True,False,False,False,False,False
+228,Girly,1,CUTE,False,For using a teddy bear and a baby,False,False,False,False,False,False,True,False,False,False,False,False,False
+229,Baby Boom,2,FUNNY,True,For combining a baby and an explosive,False,False,False,True,False,False,False,False,False,False,False,False,False
+230,Tiny House,2,CUTE,False,For building a house with a toy block cube and roof,False,False,False,False,False,False,True,False,False,False,False,False,False
+231,Bear Skewer,2,FUNNY,False,For combining a teddy bear and a toy stick,False,False,False,True,False,False,False,False,False,False,False,False,False
+232,Baby Satay,2,"CREEPY, FUNNY",True,For combining a baby and a toy stick,False,False,False,True,False,True,False,False,False,False,False,False,False
+233,Circus,2,"FUNNY, AWESOME",False,For combining a stuffed elephant and a ball part,False,False,False,True,True,False,False,False,False,False,False,False,False
+234,Sputnik,2,NERDY,False,For combining a ball part and 2 stick parts,False,False,False,False,False,False,False,False,False,False,False,False,True
+235,Old Fashioned,1,CLEVER,False,"For using a nose, body, tail and nothing else",False,False,True,False,False,False,False,False,False,False,False,False,False
+236,Penis,4,"NAUGHTY, GROSS",True,For making a long rocket with 2 round parts at the bottom,False,False,False,False,False,False,False,False,True,True,False,False,False
+237,Hotdog,1,GROSS,False,For sandwiching a booster between 2 other parts,False,False,False,False,False,False,False,False,True,False,False,False,False
+238,Gnome,2,"FUNNY, CUTE",False,For combining a cone shaped part with a figure part,False,False,False,True,False,False,True,False,False,False,False,False,False
+239,Modern Classic,1,"CLEVER, NERDY",False,For using a retro part and a NSR part,False,False,True,False,False,False,False,False,False,False,False,False,True
+240,Hunting Trophy,1,"CREEPY, WEIRD",False,For combining a Dandy Deer part and a wood part,False,True,False,False,False,True,False,False,False,False,False,False,False
+241,Seared Steak,2,"FUNNY, WEIRD",False,For using a Dandy Deer limp and an explosion,False,True,False,True,False,False,False,False,False,False,False,False,False
+242,Birds,2,WILD,False,For using a flamingo and a weathercock,False,False,False,False,False,False,False,False,False,False,True,False,False
+243,Lord of the Rings,3,NERDY,False,For combining a mannequin and a ring pyramid,False,False,False,False,False,False,False,False,False,False,False,False,True
+244,Frankenstein,2,"CREEPY, WEIRD",False,For using several body parts from different bodies,False,True,False,False,False,True,False,False,False,False,False,False,False
+245,Modular Body,1,NERDY,False,"For using a head, a torso, two arms and two legs",False,False,False,False,False,False,False,False,False,False,False,False,True
+246,Gardener,2,WILD,False,For using a wheelbarrow part and a flamingo,False,False,False,False,False,False,False,False,False,False,True,False,False
+247,Protest,2,"AWESOME, ASPIRING",False,For using a megaphone and a Molotov cocktail,False,False,False,False,True,False,False,False,False,False,False,True,False
+248,Stink Bomb,1,GROSS,False,For using a green smoker and a trash part,False,False,False,False,False,False,False,False,True,False,False,False,False
+249,Rain,2,COOL,False,For using an umbrella and a windshield wiper,True,False,False,False,False,False,False,False,False,False,False,False,False
+250,Lightning,2,"AWESOME, COOL",False,For using an industrial light and a weathercock,True,False,False,False,True,False,False,False,False,False,False,False,False
+251,Rock,2,"FUNNY, AWESOME",False,For using a guitar and a rocking horse,False,False,False,True,True,False,False,False,False,False,False,False,False
+252,War,3,CREEPY,False,For using a dynamite and a Tzar bomba,False,False,False,False,False,True,False,False,False,False,False,False,False
+253,Painter,2,NERDY,False,For using a graffiti can and a pallet,False,False,False,False,False,False,False,False,False,False,False,False,True
+254,Technical,1,CLEVER,False,For using a decoupler and a swivel,False,False,True,False,False,False,False,False,False,False,False,False,False
+255,Mechanical,2,CLEVER,False,For using a swivel and a robot,False,False,True,False,False,False,False,False,False,False,False,False,False
+256,Vintage,1,NERDY,False,For using a toy part and a retro part,False,False,False,False,False,False,False,False,False,False,False,False,True
+257,Pride,3,"CUTE, AWESOME",False,For using all different colored smoker parts,False,False,False,False,True,False,True,False,False,False,False,False,False
+258,Bloody,1,CREEPY,False,For using a red smoker and a figure part,False,False,False,False,False,True,False,False,False,False,False,False,False
+259,Scrap Pirate,1,"AWESOME, WEIRD",False,For using a scrap part and a NSR part,False,True,False,False,True,False,False,False,False,False,False,False,False
+260,Banksy,2,NERDY,False,For using a graffiti can and a Molotov cocktail,False,False,False,False,False,False,False,False,False,False,False,False,True
+261,Cocks,3,"WILD, NAUGHTY",True,For using a weathercock and a Molotov cocktail,False,False,False,False,False,False,False,False,False,True,True,False,False
+262,Alive,2,"CREEPY, CLEVER",False,For combining a limb and a swivel,False,False,True,False,False,True,False,False,False,False,False,False,False
+263,Dress-up,3,CUTE,False,For using a mannequin and combining it with 10 other parts from other sets,False,False,False,False,False,False,True,False,False,False,False,False,False
+264,Aqua,1,"CUTE, COOL",False,For using a blue smoker and a green smoker,True,False,False,False,False,False,True,False,False,False,False,False,False
+265,Space Program,3,"ASPIRING, NERDY",False,For using a space shuttle and a moon rocket,False,False,False,False,False,False,False,False,False,False,False,True,True
+266,Underwater,2,COOL,False,For using a fin part and a blue smoker,True,False,False,False,False,False,False,False,False,False,False,False,False
+267,Woodpecker,1,WILD,False,For using a bird and a wood part,False,False,False,False,False,False,False,False,False,False,True,False,False
+268,Kerbal,1,"NERDY, CLEVER",False,For combining a baby and a NSR part,False,False,True,False,False,False,False,False,False,False,False,False,True
+269,Dutch,1,WEIRD,False,For using a bike part and an orange smoker,False,True,False,False,False,False,False,False,False,False,False,False,False
+270,Diverse,2,"CUTE, AWESOME",False,"For using a nose, body and tail, all from different sets",False,False,False,False,True,False,True,False,False,False,False,False,False
+271,Minotaur,2,"WILD, NERDY",False,"For using a mannequin torso, arms and legs and a Dandy Deer head",False,False,False,False,False,False,False,False,False,False,True,False,True
+272,Horny,2,"NAUGHTY, WILD",True,For using a Dandy Deer head and a passion firework,False,False,False,False,False,False,False,False,False,True,True,False,False
+273,Hip,2,COOL,False,For using a fidget spinner and a StarTube cap,True,False,False,False,False,False,False,False,False,False,False,False,False
+274,Power-up,1,NERDY,False,For using a booster and an engine,False,False,False,False,False,False,False,False,False,False,False,False,True
+275,Inflatable,1,"FUNNY, CUTE",False,For using a toy part and a pool part,False,False,False,True,False,False,True,False,False,False,False,False,False
+276,Discarded,1,"CUTE, GROSS",False,For using a toy part and a trash part,False,False,False,False,False,False,True,False,True,False,False,False,False
+277,Repurpose,1,"GROSS, COOL",False,For using a trash part and a scrap part,True,False,False,False,False,False,False,False,True,False,False,False,False
+278,Danger,1,CREEPY,False,For using a toy part and a scrap part,False,False,False,False,False,True,False,False,False,False,False,False,False
+279,Jolly,1,CUTE,False,For using a toy part and a Dandy Deer part,False,False,False,False,False,False,True,False,False,False,False,False,False
+280,Christmas,3,"FUNNY, CUTE",False,For using Dandy Deer and 10 different toy parts,False,False,False,True,False,False,True,False,False,False,False,False,False
+281,Hate,1,CREEPY,False,For using a scrap part and a wood part,False,False,False,False,False,True,False,False,False,False,False,False,False
+282,Timber,1,WILD,False,For using a wood part and a mannequin part,False,False,False,False,False,False,False,False,False,False,True,False,False
+283,Search,2,"NAUGHTY, WEIRD",True,For using a keyboard and a Dandy Deer part,False,True,False,False,False,False,False,False,False,True,False,False,False
+284,Experience,1,ASPIRING,False,For using a rocket kit part and a NSR part,False,False,False,False,False,False,False,False,False,False,False,True,False
+285,Professional,2,ASPIRING,False,"For using an engine, a fuel tank, an oxygen tank, a pump and a connector",False,False,False,False,False,False,False,False,False,False,False,True,False
+286,Advanced,1,"CLEVER, ASPIRING",False,For using a NSR part and a kinetic part,False,False,True,False,False,False,False,False,False,False,False,True,False
+287,Body,1,"CREEPY, WEIRD",False,For using a mannequin part and a Dandy Deer part,False,True,False,False,False,True,False,False,False,False,False,False,False
+288,Flush,1,COOL,False,For using a PVC part and a pool part,True,False,False,False,False,False,False,False,False,False,False,False,False
+289,Abbreviation,1,"WEIRD, CLEVER",False,For using a PVC part and a NSR part,False,True,True,False,False,False,False,False,False,False,False,False,False
+290,Clogged,1,"GROSS, FUNNY",False,For using a trash part and a PVC part,False,False,False,True,False,False,False,False,True,False,False,False,False
+291,Rot,1,GROSS,False,For using a trash part and a wood part,False,False,False,False,False,False,False,False,True,False,False,False,False
+292,Custom,1,NOOB,False,For using a rocket kit part and a PVC part,False,False,False,False,False,False,False,True,False,False,False,False,False
+293,Doll,1,CUTE,False,For using a toy part and a mannequin part,False,False,False,False,False,False,True,False,False,False,False,False,False
+294,Pipe,0,CLEVER,False,For having a pipe in your rocket,False,False,True,False,False,False,False,False,False,False,False,False,False
+295,Noodle,1,"CLEVER, FUNNY",False,For having a pipe of at least 2 meter long,False,False,True,True,False,False,False,False,False,False,False,False,False
+296,Spaghetti,2,"WEIRD, FUNNY",False,For having at least than 3 pipes with a length of at least 2 meters,False,True,False,True,False,False,False,False,False,False,False,False,False
+297,I like to connect,3,WEIRD,False,For having at least than 10 pipes in your rocket,False,True,False,False,False,False,False,False,False,False,False,False,False
+298,Pumped,1,CLEVER,False,For increasing your fuel rate with a pump,False,False,True,False,False,False,False,False,False,False,False,False,False
+299,Under Pressure,1,CLEVER,False,For having a fuel rate of at least ???,False,False,True,False,False,False,False,False,False,False,False,False,False
+300,Football Pitch,0,NOOB,False,For reaching an altitude of 91 meters,False,False,False,False,False,False,False,True,False,False,False,False,False
+301,Furlong,0,"NOOB, WEIRD",False,For reaching an altitude of 201 meters,False,True,False,False,False,False,False,True,False,False,False,False,False
+302,Kilometer,0,ASPIRING,False,For reaching an altitude of 1 kilometers,False,False,False,False,False,False,False,False,False,False,False,True,False
+303,Sheppey,1,"WEIRD, FUNNY",False,For reaching an altitude of 1.4 kilometers,False,True,False,True,False,False,False,False,False,False,False,False,False
+304,Mile,1,ASPIRING,False,For reaching an altitude of 1609 meters,False,False,False,False,False,False,False,False,False,False,False,True,False
+305,League,1,ASPIRING,False,For reaching an altitude of 4828 meters,False,False,False,False,False,False,False,False,False,False,False,True,False
+306,Mt. Everest,2,"ASPIRING, COOL",False,For reaching an altitude of 8848 meters,True,False,False,False,False,False,False,False,False,False,False,True,False
+307,Plane,2,ASPIRING,False,For reaching an altitude of 10 kilometers,False,False,False,False,False,False,False,False,False,False,False,True,False
+308,Jet Fighter,2,ASPIRING,False,For reaching an altitude of 20 kilometers,False,False,False,False,False,False,False,False,False,False,False,True,False
+309,Weather Balloon,2,"ASPIRING, CLEVER",False,For reaching an altitude of 40 kilometers,False,False,True,False,False,False,False,False,False,False,False,True,False
+310,Aurora,3,"ASPIRING, COOL",False,For reaching an altitude of 80 kilometers,True,False,False,False,False,False,False,False,False,False,False,True,False
+311,Karman Line,4,"ASPIRING, CLEVER",False,For reaching an altitude of 100 kilometers,False,False,True,False,False,False,False,False,False,False,False,True,False
+312,ISS,4,"ASPIRING, CLEVER",False,For reaching an altitude of 422 kilometers,False,False,True,False,False,False,False,False,False,False,False,True,False
+313,Exosphere,4,"ASPIRING, CLEVER, AWESOME",False,For reaching an altitude of 690 kilometers,False,False,True,False,True,False,False,False,False,False,False,True,False
+314,Lucky,2,FUNNY,False,For having a top altitude of 7 meters,False,False,False,True,False,False,False,False,False,False,False,False,False
+315,Bad Luck,2,CREEPY,False,For having a top altitude of 13 meters,False,False,False,False,False,True,False,False,False,False,False,False,False
+316,Adult,2,NAUGHTY,True,For having a top altitude of 18 meters,False,False,False,False,False,False,False,False,False,True,False,False,False
+317,Perv,3,NAUGHTY,True,For having a top altitude of 34 meters,False,False,False,False,False,False,False,False,False,True,False,False,False
+318,The Answer,3,NERDY,False,For having a top altitude of 42 meters,False,False,False,False,False,False,False,False,False,False,False,False,True
+319,Alien,3,"NERDY, CREEPY",False,For having a top altitude of 51 meters,False,False,False,False,False,True,False,False,False,False,False,False,True
+320,Censored,3,NAUGHTY,True,For having a top altitude of 69 meters,False,False,False,False,False,False,False,False,False,True,False,False,False
+321,Byte,3,NERDY,False,For having a top altitude of 256 meters,False,False,False,False,False,False,False,False,False,False,False,False,True
+322,Pie,4,NERDY,False,For having a top altitude of 314 meters,False,False,False,False,False,False,False,False,False,False,False,False,True
+323,Weed,4,NAUGHTY,True,For having a top altitude of 420 meters,False,False,False,False,False,False,False,False,False,True,False,False,False
+324,Devil,4,CREEPY,True,For having a top altitude of 666 meters,False,False,False,False,False,True,False,False,False,False,False,False,False
+325,Panic,4,AWESOME,False,For having a top altitude of 911 meters,False,False,False,False,True,False,False,False,False,False,False,False,False
+326,Grasshopper,4,"AWESOME, WILD",False,For reaching an altitude of 25 meters without an engine or explosive,False,False,False,False,True,False,False,False,False,False,True,False,False
+327,Bolt,2,AWESOME,False,For reaching an altitude of 200 meter within 1 second,False,False,False,False,True,False,False,False,False,False,False,False,False
+328,Space Waste,4,"GROSS, ASPIRING",False,For using a trash part and reaching an altitude of 100 kilometers,False,False,False,False,False,False,False,False,True,False,False,True,False
+329,Stroll,0,NOOB,False,For reaching a distance of 10 meter,False,False,False,False,False,False,False,True,False,False,False,False,False
+330,Sprint,1,NOOB,False,For reaching a distance of 100 meter,False,False,False,False,False,False,False,True,False,False,False,False,False
+331,Walk,2,ASPIRING,False,For reaching a distance of 1 kilometer,False,False,False,False,False,False,False,False,False,False,False,True,False
+332,Travel,3,ASPIRING,False,For reaching a distance of 10 kilometer,False,False,False,False,False,False,False,False,False,False,False,True,False
+333,Marathon,3,ASPIRING,False,For reaching a distance of 42.2 kilometers,False,False,False,False,False,False,False,False,False,False,False,True,False
+334,Robot,3,CLEVER,False,For reaching a distance of 5 meters without propulsion or explosives,False,False,True,False,False,False,False,False,False,False,False,False,False
+335,Droid,4,CLEVER,False,For reaching a distance of 25 meters without propulsion or explosives,False,False,True,False,False,False,False,False,False,False,False,False,False
+336,Cheetah,0,WILD,False,For reaching a speed of 120 km/h,False,False,False,False,False,False,False,False,False,False,True,False,False
+337,Falcon,1,WILD,False,For reaching a speed of 390 km/h,False,False,False,False,False,False,False,False,False,False,True,False,False
+338,Tupolev,1,ASPIRING,False,For reaching a speed of 870 km/h,False,False,False,False,False,False,False,False,False,False,False,True,False
+339,Sound Barrier,2,"ASPIRING, CLEVER",False,For reaching a speed of 1235 km/h,False,False,True,False,False,False,False,False,False,False,False,True,False
+340,Blackbird,3,"ASPIRING, WILD",False,For reaching a speed of 3530 km/h,False,False,False,False,False,False,False,False,False,False,True,True,False
+341,Hypersonic,4,ASPIRING,False,For reaching a speed of 7270 km/h,False,False,False,False,False,False,False,False,False,False,False,True,False
+342,HTV-2,4,ASPIRING,False,For reaching a speed of 21245 km/h,False,False,False,False,False,False,False,False,False,False,False,True,False
+343,Snail,2,"WILD, NOOB",False,For not reaching a speed higher than 10 km/h,False,False,False,False,False,False,False,True,False,False,True,False,False
+344,Looping,1,AWESOME,False,For making a looping,False,False,False,False,True,False,False,False,False,False,False,False,False
+345,Rollercoaster,2,AWESOME,False,For making 3 loopings,False,False,False,False,True,False,False,False,False,False,False,False,False
+346,Corkscrew,4,AWESOME,False,For making 10 loopings,False,False,False,False,True,False,False,False,False,False,False,False,False
+347,Timed,0,CLEVER,False,For triggering a time sensor,False,False,True,False,False,False,False,False,False,False,False,False,False
+348,Right on Time,2,CLEVER,False,For triggering 3 different time sensors,False,False,True,False,False,False,False,False,False,False,False,False,False
+349,Button,0,CLEVER,False,For triggering a button sensor,False,False,True,False,False,False,False,False,False,False,False,False,False
+350,Button Masher,3,"CLEVER, NERDY",False,For triggering 5 different button sensors,False,False,True,False,False,False,False,False,False,False,False,False,True
+351,Split,1,CLEVER,False,For triggering a decoupler,False,False,True,False,False,False,False,False,False,False,False,False,False
+352,Steer,1,CLEVER,False,For triggering a swivel,False,False,True,False,False,False,False,False,False,False,False,False,False
+353,In Control,2,CLEVER,False,For spending 5 seconds pressing buttons to control a swivel,False,False,True,False,False,False,False,False,False,False,False,False,False
+354,Explosion,1,AWESOME,False,For triggering an explosion,False,False,False,False,True,False,False,False,False,False,False,False,False
+355,Flash Mob,2,AWESOME,False,For triggering 3 explosions,False,False,False,False,True,False,False,False,False,False,False,False,False
+356,Fire,2,NAUGHTY,False,For exploding a Molotov cocktail,False,False,False,False,False,False,False,False,False,True,False,False,False
+357,Clean Land,3,COOL,False,For landing a rocket on its tail without exploding,True,False,False,False,False,False,False,False,False,False,False,False,False
+358,Bottle Flip,4,"AWESOME, COOL",False,"For making a looping and landing a rocket on it""s tail without exploding",True,False,False,False,True,False,False,False,False,False,False,False,False
+359,Man Overboard,3,FUNNY,False,For having a rocket in the air that consist of only a figure part,False,False,False,True,False,False,False,False,False,False,False,False,False
+360,Swarm,3,AWESOME,False,"For having 4 independent rockets in the air at the same time, all with running engines",False,False,False,False,True,False,False,False,False,False,False,False,False
+361,Oops,1,"NOOB, FUNNY",False,For hitting a building,False,False,False,True,False,False,False,True,False,False,False,False,False
+362,Casualty,2,"NAUGHTY, CREEPY",True,For hitting a building with a rocket with an engine,False,False,False,False,False,True,False,False,False,True,False,False,False
+363,Dumpster,2,GROSS,False,For hitting a dumpster,False,False,False,False,False,False,False,False,True,False,False,False,False
+364,Topple,2,"GROSS, COOL",False,For knocking something over with your rocket,True,False,False,False,False,False,False,False,True,False,False,False,False
+365,Riot,2,CREEPY,True,For exploding a Molotov cocktail against a building,False,False,False,False,False,True,False,False,False,False,False,False,False
+366,Challenge,0,CLEVER,False,For completing a challenge,False,False,True,False,False,False,False,False,False,False,False,False,False
+367,Ridiculous,4,"AWESOME, ASPIRING, WEIRD",False,"For beating ""Ridiculous Rocket Challenge""",False,True,False,False,True,False,False,False,False,False,False,True,False
+368,Toy Magic,3,"CUTE, WEIRD",False,"For beating ""Toy Block Tower""",False,True,False,False,False,False,True,False,False,False,False,False,False
+369,Clown,3,"CUTE, CREEPY, WEIRD",False,"For beating ""Finger Counting For Kids",False,True,False,False,False,True,True,False,False,False,False,False,False
+370,Toilet,2,"FUNNY, WEIRD",False,"For beating ""Toilet Toppler""",False,True,False,True,False,False,False,False,False,False,False,False,False
+371,Dumpster Dive,3,COOL,False,"For beating ""Ultimate Dumpster Dive""",True,False,False,False,False,False,False,False,False,False,False,False,False
+372,Business,3,ASPIRING,False,"For beating ""With Love From BangCo""",False,False,False,False,False,False,False,False,False,False,False,True,False
+373,Race,3,NAUGHTY,False,"For beating ""Wait, that""s illegal""",False,False,False,False,False,False,False,False,False,True,False,False,False
+374,Stunt,3,AWESOME,False,"For beating ""Stunt Rocket""",False,False,False,False,True,False,False,False,False,False,False,False,False
+375,Monster,4,"CREEPY, AWESOME",False,"For beating ""Looping Monster""",False,False,False,False,True,True,False,False,False,False,False,False,False
+376,Connector,2,CLEVER,False,"For beating ""Do a Split""",False,False,True,False,False,False,False,False,False,False,False,False,False
+377,Robotical,3,"CLEVER, COOL",False,"For beating ""Robotical""",True,False,True,False,False,False,False,False,False,False,False,False,False
+378,Cluster,3,CLEVER,False,"For beating ""I heard you like rockets in your rocket""",False,False,True,False,False,False,False,False,False,False,False,False,False
+379,Angel,2,"WEIRD, FUNNY",False,"For beating ""Bike Angel""",False,True,False,True,False,False,False,False,False,False,False,False,False
+380,Planking,2,FUNNY,False,"For beating ""Planking""",False,False,False,True,False,False,False,False,False,False,False,False,False
+381,Grand,4,"COOL, AWESOME",False,"For beating ""Grand Scrap""",True,False,False,False,True,False,False,False,False,False,False,False,False
+382,Eco,4,"WILD, WEIRD",False,"For beating ""Algae Fuel Test""",False,True,False,False,False,False,False,False,False,False,True,False,False
+383,Scary,3,CREEPY,False,"For beating ""Furrankenstein""",False,False,False,False,False,True,False,False,False,False,False,False,False
+384,Cool,3,COOL,False,"For beating ""Too Cool For Pool""",True,False,False,False,False,False,False,False,False,False,False,False,False
+385,Oxidizer,2,CLEVER,False,"For beating ""Optimizing""",False,False,True,False,False,False,False,False,False,False,False,False,False
+386,Mozambique,3,"CLEVER, ASPIRING",False,"For beating ""The Perfect Pump""",False,False,True,False,False,False,False,False,False,False,False,True,False
+387,Staged,3,CLEVER,False,"For beating ""Engine Swap""",False,False,True,False,False,False,False,False,False,False,False,False,False
+388,Striptease,4,NAUGHTY,False,"For beating ""Rocket Strip Tease""",False,False,False,False,False,False,False,False,False,True,False,False,False
+389,Hover Cat,3,FUNNY,False,"For beating ""Hover Cat""",False,False,False,True,False,False,False,False,False,False,False,False,False
+390,BOOOM,3,AWESOME,False,"For beating ""Next Level""",False,False,False,False,True,False,False,False,False,False,False,False,False
+391,Sizzle,4,AWESOME,False,"For beating ""Dynamite Launch""",False,False,False,False,True,False,False,False,False,False,False,False,False
+392,Child,0,CUTE,False,For beating a challenge from SidPhillips,False,False,False,False,False,False,True,False,False,False,False,False,False
+393,BangCo,1,ASPIRING,False,For beating a challenge from BangCo,False,False,False,False,False,False,False,False,False,False,False,True,False
+394,Fanboy,1,"COOL, WEIRD",False,For beating a challenge from ChannelTips,True,True,False,False,False,False,False,False,False,False,False,False,False
+395,RocketGirl,1,"COOL, AWESOME",False,For beating a challenge from RocketGirl,True,False,False,False,True,False,False,False,False,False,False,False,False
+396,RaySon,1,CLEVER,False,For beating a challenge from RaySon,False,False,True,False,False,False,False,False,False,False,False,False,False
+397,Shop,0,CLEVER,False,For beating a challenge from DIY Shop,False,False,True,False,False,False,False,False,False,False,False,False,False
+398,Science,1,CLEVER,False,For beating a challenge from dot_science,False,False,True,False,False,False,False,False,False,False,False,False,False
+399,Family,2,"COOL, WEIRD",False,For beating a challenge from ScrapDad,True,True,False,False,False,False,False,False,False,False,False,False,False
+400,Progress,2,"WILD, WEIRD",False,For beating a challenge from RoseWood,False,True,False,False,False,False,False,False,False,False,True,False,False
